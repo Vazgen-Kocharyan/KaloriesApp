@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
-    android:background="@color/yellow"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".BirthDate">
@@ -38,6 +38,7 @@
             android:paddingLeft="0dp"
             android:paddingRight="0dp"
             android:gravity="center"
+            android:backgroundTint="@color/gree"
             >
             <EditText
                 android:id="@+id/etFechaNacimiento"
@@ -49,6 +50,8 @@
                 android:hint="@string/_24_04_2005"
                 android:textSize="15sp"
                 android:inputType="date"
+
+
                 />
             <ImageButton
                 android:id="@+id/ibCalendar"

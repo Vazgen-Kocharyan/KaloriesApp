@@ -9,4 +9,5 @@
     <string name="altura_y_peso">Altura y Peso</string>
     <string name="introduce_tu_altura">Introduce tu altura</string>
     <string name="introduce_tu_peso">Introduce tu peso</string>
+    <string name="que_nivel_de_actividad_realizas">¿Que nivel de actividad realizas?</string>
 </resources>
