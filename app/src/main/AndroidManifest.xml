@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".HeightAndWeight"
+            android:exported="false" />
+        <activity
             android:name=".BirthDate"
             android:exported="false" />
         <activity
