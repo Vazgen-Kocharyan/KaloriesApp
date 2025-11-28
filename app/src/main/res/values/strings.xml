@@ -10,4 +10,11 @@
     <string name="introduce_tu_altura">Introduce tu altura</string>
     <string name="introduce_tu_peso">Introduce tu peso</string>
     <string name="que_nivel_de_actividad_realizas">¿Que nivel de actividad realizas?</string>
+    <string name="objectiu">Objectiu</string>
+    <string name="nombre">Nombre</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="escribe_tus_apellidos">Escribe tus apellidos</string>
+    <string name="email">Email</string>
+    <string name="example_gmail_com">example@gmail.com</string>
 </resources>
