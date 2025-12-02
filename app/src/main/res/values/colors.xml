@@ -10,4 +10,10 @@
     <color name="darkGreen">#4B5C29</color>
     <color name="yellow">#FCF8Bb</color>
     <color name="lightGrey">#d3d3d3</color>
+    <color name="orangeCitric">#FF6B35</color>
+    <color name="limeGreen">#BFFB47</color>
+    <color name="iceBlue">#72E6FF</color>
+    <color name="modernCoral">#FF8F87</color>
+    <color name="grafitoBlack">#1F1F1F</color>
+    <color name="clearGrey">#EFEFEF</color>
 </resources>

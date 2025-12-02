@@ -3,22 +3,39 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".HeightAndWeight"
     >
-    <TextView
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/altura_y_peso"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        android:layout_marginVertical="15dp"
-        android:textColor="@color/diedGreen"
+        android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@id/ll1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        />
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+
+        >
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/altura_y_peso"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginVertical="15dp"
+            android:textColor="@color/diedGreen"
+            app:layout_constraintBottom_toTopOf="@id/ll1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView"
+            />
+    </LinearLayout>
+
     <LinearLayout
         android:id="@+id/ll1"
         android:layout_width="wrap_content"
@@ -50,6 +67,7 @@
                 android:layout_height="60dp"
                 />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -70,6 +88,7 @@
                 />
         </LinearLayout>
     </LinearLayout>
+
     <Button
         android:layout_width="120dp"
         android:layout_height="45dp"
@@ -80,6 +99,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/ll1"
         android:layout_marginVertical="30dp"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo"
+        app:tint="@color/darkGreen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="20dp"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
