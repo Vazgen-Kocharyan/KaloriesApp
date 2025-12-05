@@ -27,4 +27,11 @@
     <string name="kalories">Kalories</string>
     <string name="made_by_vazgen_and_francisco">Made by Vazgen and Francisco</string>
     <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="example_mail_com">example_gmail_com</string>
+    <string name="log_in">Log In</string>
+    <string name="seguimiento_de_peso">SEGUIMIENTO DE PESO (KG)</string>
+    <string name="registro_diario">REGISTRO DIARIO</string>
+    <string name="_50kg">50Kg</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sessi_n">Cerrar Sessión</string>
 </resources>

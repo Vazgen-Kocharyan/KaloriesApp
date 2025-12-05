@@ -41,7 +41,6 @@
             android:paddingLeft="0dp"
             android:paddingRight="0dp"
             android:gravity="center"
-            android:backgroundTint="@color/green"
             >
             <EditText
                 android:id="@+id/etFechaNacimiento"
