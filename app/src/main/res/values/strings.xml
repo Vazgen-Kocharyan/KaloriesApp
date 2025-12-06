@@ -34,4 +34,34 @@
     <string name="_50kg">50Kg</string>
     <string name="configuraci_n">Configuración</string>
     <string name="cerrar_sessi_n">Cerrar Sessión</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="enviar">Enviar</string>
+    <string name="cambiar_parametros">Cambiar parametros</string>
+    <string name="tema">Tema</string>
+    <string name="introducir_nuevo_peso">Introducir nuevo peso</string>
+    <string name="grafica_de_peso">Grafica de peso</string>
+    <string name="peso_actual">PESO ACTUAL</string>
+    <string name="_76kg">76KG</string>
+    <string name="introduce_tu_peso_en_kg">Introduce tu peso en KG</string>
+    <string name="_145">145</string>
+    <string name="volver_atr_s">Volver atrás</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="selecciona_la_fecha">Selecciona la fecha</string>
+    <string name="jueves_1_de_enero_2023">Jueves, 1 de enero 2023</string>
+    <string name="proteina">Proteina</string>
+    <string name="carbohidratos">Carbohidratos</string>
+    <string name="_17_08_2025">17/08/2025</string>
+    <string name="carbh">Carbh</string>
+    <string name="grasas">Grasas</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="almuerzo">Almuerzo</string>
+    <string name="cena">Cena</string>
+    <string name="snack">Snack</string>
+    <string name="ver_estad_sticas">Ver estadísticas</string>
+    <string name="contacto">Contacto</string>
+    <string name="idioma">Idioma</string>
 </resources>

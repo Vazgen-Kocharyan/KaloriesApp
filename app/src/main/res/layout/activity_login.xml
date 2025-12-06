@@ -30,7 +30,6 @@
             android:layout_height="45dp"
             android:background="@color/white"
             android:paddingStart="15dp"
-            android:backgroundTint="editt"
             android:hint="@string/example_mail_com"
             android:textSize="15sp"
             android:inputType="text"
